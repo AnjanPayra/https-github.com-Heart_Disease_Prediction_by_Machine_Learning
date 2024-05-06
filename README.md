@@ -20,4 +20,4 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 [Maximum Accuracy achieved: 93% (approx) using MaxVoting]
 
 ## Website
-[https://heart-disease-prediction.simrans22.repl.co/](https://b87c4231-668a-48e2-a055-42cb89e1676e-00-1rsj2y8z34rp4.picard.replit.dev/)https://b87c4231-668a-48e2-a055-42cb89e1676e-00-1rsj2y8z34rp4.picard.replit.dev/
+https://b87c4231-668a-48e2-a055-42cb89e1676e-00-1rsj2y8z34rp4.picard.replit.dev/
